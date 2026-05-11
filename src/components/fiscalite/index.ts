@@ -1,0 +1,1 @@
+export { RecapFiscal } from "./RecapFiscal";
