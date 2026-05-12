@@ -1,6 +1,11 @@
 Cotizpro — Calculateur de cotisations URSSAF pour auto-entrepreneurs
 Copyright (C) 2026 Lydiaix-Code <https://github.com/Lydiaix-Code>
 
+This software is intended exclusively for authorized security testing on systems
+you own or have explicit written permission to test. Unauthorized use against
+third-party systems is illegal (French Penal Code art. 323-1, EU Directive
+2013/40/EU, and equivalent laws). The author accepts no liability for misuse.
+
 This program is free software licensed under the GNU General Public License v3.
 Full license terms below.
 
